@@ -1,0 +1,15 @@
+.header{
+    height: 200px;
+    text-align: center;
+    background-image: url(../../assets/banner.jpg);
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1{
+    font-size: 48px;
+    color: white;
+}
